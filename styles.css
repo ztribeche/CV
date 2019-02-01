@@ -1,0 +1,50 @@
+.fd-bleu {
+	margin: 30px 5px 20px 5px;
+	background-color: #48586f;
+	color: #FFFFFF;
+	padding: 20px 10px 20px 10px;
+}
+
+.marge-encadre{
+	margin: 5px 20px 20px 20px;
+	padding: 20px 10px 20px 10px;
+	}
+
+h1 {
+	text-align: center;
+	color: #48586f;
+	font-size: 30px;
+	line-height: 2;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 2;
+}
+h3 {
+	color: #48586f;
+	font-size: 25px;
+}
+
+.sous-titre1 {
+	color: #48586f;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.sous-titre2 {
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.img-fond-zou{
+	background:url(images/fond-ecran.jpg); 
+}
+
+.fd-blanc{
+	background-color: #FFFFFF;
+}
